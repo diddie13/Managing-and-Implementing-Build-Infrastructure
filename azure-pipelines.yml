@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'Org 1 Pool'
+  name: 'Org Pool'
   
 
 variables:
