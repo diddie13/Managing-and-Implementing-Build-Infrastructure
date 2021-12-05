@@ -8,6 +8,7 @@ trigger:
 
 pool:
   name: 'Org Pool'
+  vmImage: 'windows-latest'
   
 
 variables:
